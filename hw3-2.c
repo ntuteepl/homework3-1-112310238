@@ -19,4 +19,9 @@ int main()
         car-=1;
     }
     printf("%d",car);
-    
+    }
+
+
+
+
+
