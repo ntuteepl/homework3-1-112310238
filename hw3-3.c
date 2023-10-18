@@ -14,14 +14,12 @@ int main()
             printf("%d",x);
         }
 
-        else {printf("%d",y);}
+        else printf("%d",y);
     }
-    else if (x1<y1)
-    {
-        printf("%d",x);
-    }
+    else if (x1<y1)  printf("%d",x);
 
-    else if(y1<x1) {printf("%d",y);}
+
+    else if(y1<x1)  printf("%d",y);
 
 
 
