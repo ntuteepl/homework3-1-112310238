@@ -14,7 +14,7 @@ int main()
      {
          car+=1;
      }
-    if(s3>=d1 )
+    if(s3>=d1 && s2<d1)
     {
         car-=1;
     }
