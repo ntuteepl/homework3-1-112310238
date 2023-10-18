@@ -8,7 +8,6 @@ int main()
     int A[4]={};
     int G[4]={};
     scanf("%1d%1d%1d%1d",&A[0],&A[1],&A[2],&A[3]);
-    broke=1;
     while(1)
     {
     scanf("%d",&g);
